@@ -8,6 +8,21 @@
     },
     {
       "path": "./apps/react-store"
+    },
+    {
+      "path": "./apps/inventory-e2e"
+    },
+    {
+      "path": "./apps/inventory"
+    },
+    {
+      "path": "./libs/products"
+    },
+    {
+      "path": "./libs/shared/ui"
+    },
+    {
+      "path": "./libs/orders"
     }
   ]
 }

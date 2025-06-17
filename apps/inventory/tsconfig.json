@@ -3,9 +3,6 @@
   "include": [],
   "references": [
     {
-      "path": "../../libs/orders"
-    },
-    {
       "path": "../../libs/products"
     },
     {
