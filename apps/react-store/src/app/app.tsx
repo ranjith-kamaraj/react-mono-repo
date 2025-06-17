@@ -25,7 +25,7 @@ export function App() {
           path="/"
           element={
             <div>
-              <h1>Welocome Home!!</h1>
+              <h1>Welocome Home---!!</h1>
               <Link to="products">Click here for page 2.</Link>
             </div>
           }
